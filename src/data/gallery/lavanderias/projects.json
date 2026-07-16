@@ -1,0 +1,170 @@
+{
+  "categoryId": "lavanderias",
+  "name": "Lavanderías",
+  "projectCount": 6,
+  "imageCount": 8,
+  "projects": [
+    {
+      "id": "aa",
+      "name": "AA",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA AA.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226674/disfamosa/gallery/lavanderias/aa/lavanderia-aa.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble de lavandería en madera con lavadero y mesón de granito junto a una ventana",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Toma nítida del mueble y el lavadero; la ventana está algo sobreexpuesta."
+        },
+        {
+          "sourceFilename": "LAVANDERIA AA2.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226675/disfamosa/gallery/lavanderias/aa/lavanderia-aa2.jpg",
+          "width": 2797,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Vista completa de lavandería con gabinetes de madera, mesones de granito y dos lavadoras",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Vista amplia y representativa del proyecto, con buena profundidad y luz natural intensa."
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "ag",
+      "name": "AG",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA AG.jpeg",
+          "projectId": "ag",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226676/disfamosa/gallery/lavanderias/ag/lavanderia-ag.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Lavadoras bajo cubierta de madera y gabinetes blancos con nichos abiertos",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Buen detalle de la combinación blanco y madera, aunque el encuadre corta los equipos."
+        },
+        {
+          "sourceFilename": "LAVANDERIA AG2.jpeg",
+          "projectId": "ag",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226676/disfamosa/gallery/lavanderias/ag/lavanderia-ag2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Lavandería lineal con gabinetes blancos, cubierta de madera y amplio lavadero",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Composición amplia, nítida y equilibrada que muestra mobiliario, lavadero y equipos."
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": "bodega",
+      "name": "BODEGA",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA BODEGA.jpeg",
+          "projectId": "bodega",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226677/disfamosa/gallery/lavanderias/bodega/lavanderia-bodega.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mobiliario blanco de lavandería con gabinetes altos y superficie de apoyo integrada",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Muestra con claridad la carpintería terminada, pero no incluye equipos y el ángulo es cerrado."
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "jpm",
+      "name": "JPM",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA JPM.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226677/disfamosa/gallery/lavanderias/jpm/lavanderia-jpm.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Lavandería blanca compacta con gabinetes, secadora y ventana de piso a techo",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista completa y luminosa; se observan conexiones expuestas y película protectora en el equipo."
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "mm",
+      "name": "MM",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA MM.jpeg",
+          "projectId": "mm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226678/disfamosa/gallery/lavanderias/mm/lavanderia-mm.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Lavandería moderna con gabinetes beige, torre de almacenamiento y lavadora con secadora",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Buena perspectiva del conjunto y abundante luz natural; los equipos conservan su embalaje."
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "vp",
+      "name": "VP",
+      "images": [
+        {
+          "sourceFilename": "LAVANDERIA VP.jpg",
+          "projectId": "vp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226678/disfamosa/gallery/lavanderias/vp/lavanderia-vp.jpg",
+          "width": 828,
+          "height": 845,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Lavandería compacta con gabinetes beige, lavadero de acero y repisas con cestas metálicas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Escena ordenada y descriptiva, aunque la resolución es menor y la iluminación algo plana."
+        }
+      ],
+      "sortOrder": 6
+    }
+  ]
+}

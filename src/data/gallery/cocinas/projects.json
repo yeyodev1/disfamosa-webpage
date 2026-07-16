@@ -1,0 +1,1081 @@
+{
+  "categoryId": "cocinas",
+  "name": "Cocinas",
+  "projectCount": 29,
+  "imageCount": 58,
+  "projects": [
+    {
+      "id": "at",
+      "name": "AT",
+      "images": [
+        {
+          "sourceFilename": "COCINA AT.JPG",
+          "projectId": "at",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226634/disfamosa/gallery/cocinas/at/cocina-at.jpg",
+          "width": 2305,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca lineal con isla de granito, lámparas cromadas y electrodomésticos integrados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista amplia, luminosa y nítida que muestra la distribución completa y los acabados."
+        },
+        {
+          "sourceFilename": "COCINA AT2.jpeg",
+          "projectId": "at",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226634/disfamosa/gallery/cocinas/at/cocina-at2.jpg",
+          "width": 1024,
+          "height": 768,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Vista general de cocina blanca con dos islas de granito y comedor auxiliar",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Composición informativa y completa, aunque con iluminación más oscura y menor resolución."
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "ay",
+      "name": "AY",
+      "images": [
+        {
+          "sourceFilename": "COCINA AY.jpeg",
+          "projectId": "ay",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226635/disfamosa/gallery/cocinas/ay/cocina-ay.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina tipo pasillo en gris claro con salpicadero de mármol y barra desayunadora",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Perspectiva profunda, limpia y bien iluminada que presenta mobiliario y superficies."
+        },
+        {
+          "sourceFilename": "COCINA AY2.jpeg",
+          "projectId": "ay",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226635/disfamosa/gallery/cocinas/ay/cocina-ay2.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Frente de cocina gris con cubierta y salpicadero de mármol, campana y refrigerador",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Vista frontal nítida y útil, con encuadre más cerrado y reflejo leve del fotógrafo."
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": "cl",
+      "name": "CL",
+      "images": [
+        {
+          "sourceFilename": "COCINA CL.JPG",
+          "projectId": "cl",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226636/disfamosa/gallery/cocinas/cl/cocina-cl.jpg",
+          "width": 1080,
+          "height": 638,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca y nogal en L con electrodomésticos de acero y cubierta clara",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista general equilibrada que muestra bien el contraste de materiales y la distribución."
+        },
+        {
+          "sourceFilename": "COCINA CL2.JPG",
+          "projectId": "cl",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226636/disfamosa/gallery/cocinas/cl/cocina-cl2.jpg",
+          "width": 1080,
+          "height": 642,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Detalle de cocina en nogal y blanco con placa de gas, horno y campana de acero",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Encuadre nítido de la zona de cocción, aunque corta parte del refrigerador."
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "cm",
+      "name": "CM",
+      "images": [
+        {
+          "sourceFilename": "COCINA CM.jpeg",
+          "projectId": "cm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226636/disfamosa/gallery/cocinas/cm/cocina-cm.jpg",
+          "width": 1236,
+          "height": 1528,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina abierta en tonos grises con península blanca y lámparas esféricas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Imagen vertical bien compuesta, luminosa y ambientada con accesorios discretos."
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "cn",
+      "name": "CN",
+      "images": [
+        {
+          "sourceFilename": "COCINA CN.JPG",
+          "projectId": "cn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226637/disfamosa/gallery/cocinas/cn/cocina-cn.jpg",
+          "width": 2305,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina amplia de madera oscura con isla de granito y mesa curva de madera",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista amplia y bien iluminada que destaca la escala, el mobiliario y la pieza central."
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "cv",
+      "name": "CV",
+      "images": [
+        {
+          "sourceFilename": "COCINA CV.jpeg",
+          "projectId": "cv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226638/disfamosa/gallery/cocinas/cv/cocina-cv.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina comedor en madera clara con cubiertas de piedra e iluminación cálida integrada",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista completa y nítida, con algunos objetos domésticos que restan limpieza visual."
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": "go",
+      "name": "GO",
+      "images": [
+        {
+          "sourceFilename": "COCINA GO.JPG",
+          "projectId": "go",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226638/disfamosa/gallery/cocinas/go/cocina-go.jpg",
+          "width": 1784,
+          "height": 1276,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina oscura con isla de granito negro y torre de hornos de acero inoxidable",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Composición amplia y definida, ligeramente cálida y oscura por la iluminación interior."
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "id": "gp",
+      "name": "GP",
+      "images": [
+        {
+          "sourceFilename": "COCINA GP.jpeg",
+          "projectId": "gp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226639/disfamosa/gallery/cocinas/gp/cocina-gp.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina compacta en beige con azulejos celestes y lámparas colgantes de fibra",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista vertical atractiva, aunque la barra en primer plano ocupa gran parte del encuadre."
+        },
+        {
+          "sourceFilename": "COCINA GP2.jpeg",
+          "projectId": "gp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226639/disfamosa/gallery/cocinas/gp/cocina-gp2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina en U color beige con cubierta blanca, azulejos celestes e iluminación bajo gabinete",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Vista frontal amplia, nítida y equilibrada que documenta toda la zona de trabajo."
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "id": "gs",
+      "name": "GS",
+      "images": [
+        {
+          "sourceFilename": "COCINA GS.jpeg",
+          "projectId": "gs",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226640/disfamosa/gallery/cocinas/gs/cocina-gs.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina clara con isla central, cubiertas marmoleadas y panel decorativo de madera",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista amplia con buena definición; conserva películas protectoras y papeles de entrega."
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "id": "ha",
+      "name": "HA",
+      "images": [
+        {
+          "sourceFilename": "COCINA HA.JPG",
+          "projectId": "ha",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226640/disfamosa/gallery/cocinas/ha/cocina-ha.jpg",
+          "width": 1242,
+          "height": 1508,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina blanca clásica con barra negra, azulejos tipo metro y taburetes metálicos",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Encuadre vertical limpio y claro que destaca los frentes brillantes y el contraste negro."
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "id": "hl",
+      "name": "HL",
+      "images": [
+        {
+          "sourceFilename": "COCINA HL.jpeg",
+          "projectId": "hl",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226641/disfamosa/gallery/cocinas/hl/cocina-hl.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina en madera gris con vitrinas negras, cubierta marmoleada y torre de hornos",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista vertical completa y nítida, con perspectiva inclinada y elementos domésticos visibles."
+        },
+        {
+          "sourceFilename": "COCINA HL2.jpeg",
+          "projectId": "hl",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226641/disfamosa/gallery/cocinas/hl/cocina-hl2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina en U gris y blanca con placa de gas, vitrinas iluminadas y ventana central",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Vista horizontal amplia y equilibrada que presenta claramente materiales y distribución."
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "id": "img-0409",
+      "name": "IMG_0409",
+      "images": [
+        {
+          "sourceFilename": "IMG_0409.JPG",
+          "projectId": "img-0409",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226643/disfamosa/gallery/cocinas/img-0409/img-0409.jpg",
+          "width": 1439,
+          "height": 1899,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Detalle de cocina de madera clara y gabinetes negros con fregadero y luz lineal",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Composición interesante, pero el recorte estrecho y el grano reducen su valor general."
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "id": "in",
+      "name": "IN",
+      "images": [
+        {
+          "sourceFilename": "COCINA IN.jpeg",
+          "projectId": "in",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226644/disfamosa/gallery/cocinas/in/cocina-in.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina gris y madera con isla blanca, placa de inducción y estantería iluminada",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista amplia, nítida y contemporánea con buena profundidad y lectura de materiales."
+        },
+        {
+          "sourceFilename": "COCINA IN2.jpeg",
+          "projectId": "in",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226644/disfamosa/gallery/cocinas/in/cocina-in2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Frente de cocina gris con fregadero negro, salpicadero marmoleado y luz bajo gabinete",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Encuadre vertical limpio que resalta texturas, grifería y continuidad de la encimera."
+        },
+        {
+          "sourceFilename": "COCINA IN3.jpeg",
+          "projectId": "in",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226645/disfamosa/gallery/cocinas/in/cocina-in3.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Rincón de cocina gris con cubierta blanca, fregadero negro y accesorios decorativos",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 4,
+          "analysis": "Detalle útil y bien iluminado, aunque muestra menos de la distribución general."
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "id": "ip",
+      "name": "IP",
+      "images": [
+        {
+          "sourceFilename": "COCINA IP.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226646/disfamosa/gallery/cocinas/ip/cocina-ip.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca de alto brillo con dos frentes paralelos y cubiertas de piedra clara",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Perspectiva simétrica, luminosa y profesional que comunica amplitud y continuidad."
+        },
+        {
+          "sourceFilename": "COCINA IP2.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226646/disfamosa/gallery/cocinas/ip/cocina-ip2.jpg",
+          "width": 1536,
+          "height": 2302,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina blanca con gran isla de piedra, taburetes de madera y lámparas de vidrio",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Composición vertical cuidada y bien ambientada que destaca la isla y la iluminación."
+        },
+        {
+          "sourceFilename": "COCINA IP3.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226646/disfamosa/gallery/cocinas/ip/cocina-ip3.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Zona auxiliar de cocina blanca con refrigerador integrado y fregadero sobre piedra clara",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 5,
+          "analysis": "Detalle horizontal nítido y bien iluminado, con líneas limpias y buena profundidad."
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "id": "jb",
+      "name": "JB",
+      "images": [
+        {
+          "sourceFilename": "COCINA JB.jpg",
+          "projectId": "jb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226647/disfamosa/gallery/cocinas/jb/cocina-jb.jpg",
+          "width": 1440,
+          "height": 1085,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina alargada en blanco y azul grisáceo con isla central de cubierta clara",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista general clara y funcional, con iluminación algo plana y encuadre ligeramente inclinado."
+        },
+        {
+          "sourceFilename": "COCINA JB2.jpg",
+          "projectId": "jb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226647/disfamosa/gallery/cocinas/jb/cocina-jb2.jpg",
+          "width": 1440,
+          "height": 1083,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca con isla azul grisácea, almacenamiento alto y azulejos biselados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Vista amplia y equilibrada que muestra de forma limpia la distribución completa."
+        },
+        {
+          "sourceFilename": "COCINA JB3.jpg",
+          "projectId": "jb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226647/disfamosa/gallery/cocinas/jb/cocina-jb3.jpg",
+          "width": 1440,
+          "height": 1440,
+          "format": "jpg",
+          "orientation": "square",
+          "alt": "Detalle de cajón extraíble blanco frente a isla azul grisácea con cestas metálicas",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 3,
+          "analysis": "Documenta una solución de almacenamiento, pero el cajón domina y obstruye el espacio."
+        },
+        {
+          "sourceFilename": "COCINA JB4.jpg",
+          "projectId": "jb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226647/disfamosa/gallery/cocinas/jb/cocina-jb4.jpg",
+          "width": 1440,
+          "height": 1085,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Pasillo de cocina entre isla azul grisácea y gabinetes blancos con horno de acero",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4,
+          "qualityScore": 4,
+          "analysis": "Ángulo bajo útil para mostrar circulación y contraste, aunque incluye mobiliario del salón."
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "id": "jp",
+      "name": "JP",
+      "images": [
+        {
+          "sourceFilename": "COCINA JP.JPG",
+          "projectId": "jp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226648/disfamosa/gallery/cocinas/jp/cocina-jp.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Detalle de horno empotrado bajo cubierta blanca con placa de gas y azulejos tipo metro",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Imagen nítida pero muy cerrada, con reflejo del fotógrafo en la puerta del horno."
+        },
+        {
+          "sourceFilename": "COCINA JP2.JPG",
+          "projectId": "jp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226648/disfamosa/gallery/cocinas/jp/cocina-jp2.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Frente de cocina de madera clara con horno negro, campana y azulejos blancos biselados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Vista vertical completa y clara, aunque conserva etiquetas y una caja sobre la cubierta."
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "id": "m3",
+      "name": "M3",
+      "images": [
+        {
+          "sourceFilename": "COCINA M3.jpg",
+          "projectId": "m3",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226649/disfamosa/gallery/cocinas/m3/cocina-m3.jpg",
+          "width": 1440,
+          "height": 1440,
+          "format": "jpg",
+          "orientation": "square",
+          "alt": "Cocina gris y madera con península de piedra y lámparas ovaladas doradas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Composición atractiva y bien iluminada, con reflejos marcados en la vitrina lateral."
+        }
+      ],
+      "sortOrder": 17
+    },
+    {
+      "id": "mj",
+      "name": "MJ",
+      "images": [
+        {
+          "sourceFilename": "COCINA MJ.jpeg",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226650/disfamosa/gallery/cocinas/mj/cocina-mj-7d1a849b.jpg",
+          "width": 783,
+          "height": 438,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina abierta en madera rústica con isla blanca y vitrinas negras iluminadas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista general bien compuesta y ambientada, limitada por su baja resolución."
+        },
+        {
+          "sourceFilename": "COCINA MJ.JPG",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226650/disfamosa/gallery/cocinas/mj/cocina-mj-1e709354.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina de madera rústica con isla iluminada, grifería dorada y frentes blancos",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Buen ángulo hacia la isla y la zona de cocción, aunque la perspectiva está inclinada."
+        },
+        {
+          "sourceFilename": "COCINA MJ2.jpeg",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226650/disfamosa/gallery/cocinas/mj/cocina-mj2-2c194301.jpg",
+          "width": 828,
+          "height": 612,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Vista lateral de cocina de madera con vitrina negra y revestimiento geométrico blanco",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 3,
+          "analysis": "Muestra la profundidad y la iluminación, pero tiene baja resolución y un recorte estrecho."
+        },
+        {
+          "sourceFilename": "COCINA MJ2.JPG",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226650/disfamosa/gallery/cocinas/mj/cocina-mj2-a2c279b1.jpg",
+          "width": 2024,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble bar de madera rústica con vitrinas negras iluminadas y cubierta blanca",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4,
+          "qualityScore": 4,
+          "analysis": "Detalle vertical nítido del almacenamiento y la iluminación, con reflejos visibles."
+        }
+      ],
+      "sortOrder": 18
+    },
+    {
+      "id": "mz",
+      "name": "MZ",
+      "images": [
+        {
+          "sourceFilename": "COCINA MZ.JPG",
+          "projectId": "mz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226651/disfamosa/gallery/cocinas/mz/cocina-mz.jpg",
+          "width": 3834,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina gris con isla blanca, tiradores dorados y salpicadero marmoleado continuo",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Panorámica amplia, nítida y equilibrada que presenta toda la instalación."
+        },
+        {
+          "sourceFilename": "COCINA MZ2.JPG",
+          "projectId": "mz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226651/disfamosa/gallery/cocinas/mz/cocina-mz2.jpg",
+          "width": 2479,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Vista interior de cocina gris con isla, cubierta blanca y grifería cromada",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Encuadre amplio y limpio que destaca la zona de trabajo y el acabado marmoleado."
+        },
+        {
+          "sourceFilename": "COCINA MZ3.JPG",
+          "projectId": "mz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226651/disfamosa/gallery/cocinas/mz/cocina-mz3.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Detalle de gabinetes grises con tiradores dorados y placa de gas sobre cubierta blanca",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 4,
+          "analysis": "Primer plano nítido de herrajes y molduras, con encuadre deliberadamente cerrado."
+        }
+      ],
+      "sortOrder": 19
+    },
+    {
+      "id": "oi",
+      "name": "OI",
+      "images": [
+        {
+          "sourceFilename": "COCINA OI.JPG",
+          "projectId": "oi",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226651/disfamosa/gallery/cocinas/oi/cocina-oi.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca y gris con isla central, frentes clásicos y tiradores dorados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista panorámica simétrica y luminosa que muestra mobiliario, isla y revestimientos."
+        },
+        {
+          "sourceFilename": "COCINA OI2.JPG",
+          "projectId": "oi",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226651/disfamosa/gallery/cocinas/oi/cocina-oi2.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina gris con isla de cubierta blanca y salpicadero de vetas marmoleadas",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Perspectiva cercana, nítida y equilibrada que realza las superficies y herrajes."
+        }
+      ],
+      "sortOrder": 20
+    },
+    {
+      "id": "p",
+      "name": "P",
+      "images": [
+        {
+          "sourceFilename": "COCINA P.jpg",
+          "projectId": "p",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226652/disfamosa/gallery/cocinas/p/cocina-p.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina de madera con isla curva negra, cubierta de piedra y lámpara escultórica",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Imagen amplia y distintiva que presenta con claridad la pieza central y la iluminación."
+        },
+        {
+          "sourceFilename": "COCINA P2.JPG",
+          "projectId": "p",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226652/disfamosa/gallery/cocinas/p/cocina-p2.jpg",
+          "width": 1536,
+          "height": 2302,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Pasillo de cocina azul con barra blanca, lámparas metálicas y puerta geométrica",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Composición vertical profesional con gran profundidad, reflejos controlados y líneas limpias."
+        },
+        {
+          "sourceFilename": "COCINA P22.JPG",
+          "projectId": "p",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226652/disfamosa/gallery/cocinas/p/cocina-p22.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina azul con cubiertas blancas, lámparas doradas y comedor integrado",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 5,
+          "analysis": "Vista amplia, colorida y bien iluminada que muestra la distribución y el mobiliario."
+        },
+        {
+          "sourceFilename": "COCINA P23.JPG",
+          "projectId": "p",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226653/disfamosa/gallery/cocinas/p/cocina-p23.jpg",
+          "width": 2032,
+          "height": 1512,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina azul en proceso de instalación con isla escalonada y lámparas doradas",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4,
+          "qualityScore": 2,
+          "analysis": "La imagen es nítida, pero muestra cableado expuesto, nichos vacíos y obra incompleta."
+        }
+      ],
+      "sortOrder": 21
+    },
+    {
+      "id": "pc",
+      "name": "PC",
+      "images": [
+        {
+          "sourceFilename": "COCINA PC .jpeg",
+          "projectId": "pc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226653/disfamosa/gallery/cocinas/pc/cocina-pc.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina beige de líneas limpias con isla angular, mesa central y refrigerador de acero",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista completa y útil con buena profundidad, aunque la luz interior es algo tenue."
+        }
+      ],
+      "sortOrder": 22
+    },
+    {
+      "id": "pm",
+      "name": "PM",
+      "images": [
+        {
+          "sourceFilename": "COCINA PM.jpeg",
+          "projectId": "pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226654/disfamosa/gallery/cocinas/pm/cocina-pm.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina de madera clara con gabinetes negros, isla gris y electrodomésticos de acero",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista vertical completa y nítida que muestra materiales, iluminación y distribución."
+        },
+        {
+          "sourceFilename": "COCINA PM2.jpeg",
+          "projectId": "pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226654/disfamosa/gallery/cocinas/pm/cocina-pm2.jpg",
+          "width": 2049,
+          "height": 1908,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina de madera clara con gabinetes negros y cubierta gris bajo doble altura",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Buen encuadre arquitectónico y luz cálida, con algo de suavidad en el detalle."
+        },
+        {
+          "sourceFilename": "COCINA PM3.JPG",
+          "projectId": "pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226655/disfamosa/gallery/cocinas/pm/cocina-pm3.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina de madera clara con isla gris, frentes negros y cubierta iluminada",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 4,
+          "analysis": "Vista frontal equilibrada y limpia que documenta la cocina terminada."
+        }
+      ],
+      "sortOrder": 23
+    },
+    {
+      "id": "ps",
+      "name": "PS",
+      "images": [
+        {
+          "sourceFilename": "COCINA PS.JPG",
+          "projectId": "ps",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226656/disfamosa/gallery/cocinas/ps/cocina-ps.jpg",
+          "width": 1280,
+          "height": 570,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina amplia de madera con isla blanca, cubierta continua y lámpara colgante",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Panorámica bien compuesta y acogedora, limitada por su formato bajo y resolución moderada."
+        }
+      ],
+      "sortOrder": 24
+    },
+    {
+      "id": "pv",
+      "name": "PV",
+      "images": [
+        {
+          "sourceFilename": "COCINA PV.JPG",
+          "projectId": "pv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226656/disfamosa/gallery/cocinas/pv/cocina-pv.jpg",
+          "width": 720,
+          "height": 480,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina de madera oscura con isla de granito, placa de gas y campana suspendida",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Composición clara y completa, pero la imagen tiene baja resolución y altas luces fuertes."
+        }
+      ],
+      "sortOrder": 25
+    },
+    {
+      "id": "rg",
+      "name": "RG",
+      "images": [
+        {
+          "sourceFilename": "COCINA RG.JPG",
+          "projectId": "rg",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226657/disfamosa/gallery/cocinas/rg/cocina-rg.jpg",
+          "width": 2304,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina negra de alto brillo con isla, comedor de granito y electrodomésticos integrados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista profesional, nítida y bien ambientada que resalta superficies y profundidad."
+        }
+      ],
+      "sortOrder": 26
+    },
+    {
+      "id": "rm",
+      "name": "RM",
+      "images": [
+        {
+          "sourceFilename": "COCINA RM.JPG",
+          "projectId": "rm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226658/disfamosa/gallery/cocinas/rm/cocina-rm.jpg",
+          "width": 2731,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca lineal con salpicadero de madera oscura y cubiertas de piedra clara",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Perspectiva profunda y ordenada, con ligera distorsión de gran angular."
+        },
+        {
+          "sourceFilename": "COCINA RM2.JPG",
+          "projectId": "rm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226658/disfamosa/gallery/cocinas/rm/cocina-rm2.jpg",
+          "width": 3252,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca de dos frentes con vitrinas iluminadas y revestimiento de madera oscura",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Panorámica amplia, luminosa y equilibrada que documenta toda la distribución."
+        }
+      ],
+      "sortOrder": 27
+    },
+    {
+      "id": "sg",
+      "name": "SG",
+      "images": [
+        {
+          "sourceFilename": "COCINA SG.JPG",
+          "projectId": "sg",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226658/disfamosa/gallery/cocinas/sg/cocina-sg.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca doméstica con isla de granito, gabinetes altos y ventana al jardín",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Vista completa y acogedora, aunque de resolución moderada y con varios objetos visibles."
+        },
+        {
+          "sourceFilename": "COCINA SG2.JPG",
+          "projectId": "sg",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226658/disfamosa/gallery/cocinas/sg/cocina-sg2.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina blanca con gran isla de granito, lámparas metálicas y vegetación exterior",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Composición amplia y agradable que destaca la isla y la relación con el jardín."
+        }
+      ],
+      "sortOrder": 28
+    },
+    {
+      "id": "ss",
+      "name": "SS",
+      "images": [
+        {
+          "sourceFilename": "COCINA SS.jpg",
+          "projectId": "ss",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226659/disfamosa/gallery/cocinas/ss/cocina-ss.jpg",
+          "width": 1440,
+          "height": 1439,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina compacta en madera y gris con cubierta nacarada, estufa y fregadero bajo ventana",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista cuadrada nítida y bien iluminada que muestra la zona principal de trabajo."
+        },
+        {
+          "sourceFilename": "COCINA SS2.jpg",
+          "projectId": "ss",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226659/disfamosa/gallery/cocinas/ss/cocina-ss2.jpg",
+          "width": 1440,
+          "height": 1439,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina en madera y gris con isla central de piedra y electrodomésticos de acero",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Composición amplia y clara, aunque la unidad exterior visible distrae en la ventana."
+        },
+        {
+          "sourceFilename": "COCINA SS3.jpg",
+          "projectId": "ss",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226659/disfamosa/gallery/cocinas/ss/cocina-ss3.jpg",
+          "width": 1440,
+          "height": 1440,
+          "format": "jpg",
+          "orientation": "square",
+          "alt": "Detalle de refrigerador y torre de hornos integrados entre gabinetes grises",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 3,
+          "analysis": "Encuadre muy cerrado y algo suave, útil solo como detalle de integración."
+        },
+        {
+          "sourceFilename": "COCINA SS4.jpeg",
+          "projectId": "ss",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226660/disfamosa/gallery/cocinas/ss/cocina-ss4.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Cocina de madera y gris con cubierta nacarada, lámparas doradas y fregadero lateral",
+          "featured": true,
+          "published": true,
+          "sortOrder": 4,
+          "qualityScore": 5,
+          "analysis": "Vista vertical equilibrada, nítida y luminosa que destaca materiales y composición."
+        }
+      ],
+      "sortOrder": 29
+    }
+  ]
+}

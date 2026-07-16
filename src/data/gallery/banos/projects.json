@@ -1,0 +1,495 @@
+{
+  "categoryId": "banos",
+  "name": "Baños",
+  "projectCount": 16,
+  "imageCount": 25,
+  "projects": [
+    {
+      "id": "bb",
+      "name": "BB",
+      "images": [
+        {
+          "sourceFilename": "BAÑO BB.JPG",
+          "projectId": "bb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226597/disfamosa/gallery/banos/bb/bano-bb.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Baño con mueble de lavabo en madera oscura, espejo retroiluminado y revestimiento beige",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista completa, nítida y bien iluminada; pequeños objetos domésticos restan limpieza visual."
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "bu",
+      "name": "BU",
+      "images": [
+        {
+          "sourceFilename": "BAÑO BU.JPG",
+          "projectId": "bu",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226598/disfamosa/gallery/banos/bu/bano-bu.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble de baño en madera clara con encimera blanca, espejo amplio y repisas de vidrio iluminadas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Buena perspectiva del mobiliario y la iluminación, con encuadre ligeramente cerrado."
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": "cs",
+      "name": "CS",
+      "images": [
+        {
+          "sourceFilename": "BAÑO CS.JPG",
+          "projectId": "cs",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226599/disfamosa/gallery/banos/cs/bano-cs.jpg",
+          "width": 1437,
+          "height": 840,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble flotante doble en madera clara con lavabos sobre encimera y superficie blanca",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Composición frontal y simétrica que muestra con claridad el diseño doble."
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "gp",
+      "name": "GP",
+      "images": [
+        {
+          "sourceFilename": "BAÑO GP.JPG",
+          "projectId": "gp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226600/disfamosa/gallery/banos/gp/bano-gp.jpg",
+          "width": 1536,
+          "height": 2731,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante de baño en madera nogal con lavabo integrado, repisas abiertas y espejo retroiluminado",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista general equilibrada y nítida que presenta el conjunto completo."
+        },
+        {
+          "sourceFilename": "BAÑO GP2.JPG",
+          "projectId": "gp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226601/disfamosa/gallery/banos/gp/bano-gp2.jpg",
+          "width": 2049,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Detalle de mueble flotante de baño en madera nogal con cajones amplios y encimera de cuarzo",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Acercamiento limpio y bien expuesto que destaca la veta y la capacidad de almacenamiento."
+        },
+        {
+          "sourceFilename": "BAÑO GP3.JPG",
+          "projectId": "gp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226600/disfamosa/gallery/banos/gp/bano-gp3.jpg",
+          "width": 864,
+          "height": 1296,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante blanco con cubierta de piedra oscura, espejo modular y armario lateral",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 3,
+          "analysis": "Imagen nítida y útil, aunque de menor resolución y con una composición menos refinada."
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "gps",
+      "name": "GPS",
+      "images": [
+        {
+          "sourceFilename": "BAÑO GPS.jpeg",
+          "projectId": "gps",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226601/disfamosa/gallery/banos/gps/bano-gps.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Baño beige con mueble blanco de doble lavabo, cubierta de piedra y muro de textura ondulada",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Perspectiva amplia con buena profundidad y lectura clara de materiales y distribución."
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "gz",
+      "name": "GZ",
+      "images": [
+        {
+          "sourceFilename": "BAÑO GZ.JPG",
+          "projectId": "gz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226602/disfamosa/gallery/banos/gz/bano-gz.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante de doble lavabo con frentes efecto metal, cubierta de piedra clara y espejos modulares",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Toma luminosa y detallada que resalta el acabado texturizado del mobiliario."
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": "iv",
+      "name": "IV",
+      "images": [
+        {
+          "sourceFilename": "BAÑO IV.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226603/disfamosa/gallery/banos/iv/bano-iv.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Tocador flotante blanco con cubierta continua, espejo de gran formato y armario vertical",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Buen registro del diseño, pero el ángulo inclinado y una caja sobre la cubierta distraen."
+        },
+        {
+          "sourceFilename": "BAÑO IV2.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226603/disfamosa/gallery/banos/iv/bano-iv2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble flotante blanco de doble lavabo con espejos arqueados retroiluminados y armarios laterales",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Vista amplia, limpia y bien iluminada con excelente presencia arquitectónica."
+        },
+        {
+          "sourceFilename": "BAÑO IV3.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226603/disfamosa/gallery/banos/iv/bano-iv3.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble de baño en madera acanalada con lavabo ovalado de piedra y repisa abierta",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3,
+          "qualityScore": 4,
+          "analysis": "Primer plano nítido que comunica bien la textura artesanal y los materiales naturales."
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "id": "lf",
+      "name": "LF",
+      "images": [
+        {
+          "sourceFilename": "BAÑO LF.jpeg",
+          "projectId": "lf",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226604/disfamosa/gallery/banos/lf/bano-lf.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante de doble lavabo en madera natural con cubierta de mármol y espejo panorámico",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Perspectiva amplia y luminosa; la inclinación del encuadre es leve y no afecta la lectura."
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "id": "lo",
+      "name": "LO",
+      "images": [
+        {
+          "sourceFilename": "BAÑO LO.JPG",
+          "projectId": "lo",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226604/disfamosa/gallery/banos/lo/bano-lo.jpg",
+          "width": 2305,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble de doble lavabo en madera oscura con cubierta de mármol, espejos modulares y velas decorativas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Composición frontal útil, aunque algo suave y con iluminación menos uniforme."
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "id": "mp",
+      "name": "MP",
+      "images": [
+        {
+          "sourceFilename": "BAÑO MP.JPG",
+          "projectId": "mp",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226605/disfamosa/gallery/banos/mp/bano-mp.jpg",
+          "width": 2039,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante en madera gris con lavabo integrado, espejo retroiluminado y decoración marina",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Encuadre frontal claro, con sobreexposición parcial y abundante decoración sobre la cubierta."
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "id": "mt",
+      "name": "MT",
+      "images": [
+        {
+          "sourceFilename": "BAÑO MT.jpeg",
+          "projectId": "mt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226606/disfamosa/gallery/banos/mt/bano-mt.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante blanco con frentes acanalados, cubierta de mármol y tres espejos verticales",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Imagen elegante, nítida y bien compuesta que destaca textura, escala y acabados."
+        },
+        {
+          "sourceFilename": "BAÑO MT2.jpeg",
+          "projectId": "mt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226606/disfamosa/gallery/banos/mt/bano-mt2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Vista frontal de mueble blanco acanalado con lavabo integrado y espejos verticales sobre muro de mármol",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Toma simétrica y clara, aunque con menos profundidad que la vista principal."
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "id": "mz",
+      "name": "MZ",
+      "images": [
+        {
+          "sourceFilename": "BAÑO MZ.JPG",
+          "projectId": "mz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226607/disfamosa/gallery/banos/mz/bano-mz.jpg",
+          "width": 1639,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble compacto gris con lavabo integrado, espejo vertical y revestimiento de vetas finas",
+          "featured": false,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Registro funcional y nítido, pero el espacio reducido y el encuadre limitan su impacto."
+        },
+        {
+          "sourceFilename": "BAÑO MZ2.JPG",
+          "projectId": "mz",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226607/disfamosa/gallery/banos/mz/bano-mz2.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble flotante de doble lavabo en madera gris con cubierta de mármol y grifería mural",
+          "featured": true,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Composición luminosa y sofisticada con excelente lectura del mármol y la carpintería."
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "id": "rs",
+      "name": "RS",
+      "images": [
+        {
+          "sourceFilename": "BAÑO RS.jpeg",
+          "projectId": "rs",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226607/disfamosa/gallery/banos/rs/bano-rs.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble blanco de doble lavabo con cubierta continua, espejo panorámico y muro geométrico en relieve",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Perspectiva profunda que muestra bien la longitud del mueble; los cosméticos generan algo de ruido visual."
+        },
+        {
+          "sourceFilename": "BAÑO RS2.jpeg",
+          "projectId": "rs",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226607/disfamosa/gallery/banos/rs/bano-rs2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Baño compacto blanco y gris con mueble flotante, lavabo integrado y sanitario suspendido",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Vista limpia y completa del ambiente, aunque el mueble ocupa menos protagonismo."
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "id": "sn",
+      "name": "SN",
+      "images": [
+        {
+          "sourceFilename": "BAÑO SN.JPG",
+          "projectId": "sn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226609/disfamosa/gallery/banos/sn/bano-sn.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Baño con mueble de madera gris, cubierta de travertino, espejo amplio y ducha de vidrio",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Fotografía profesional, nítida y equilibrada que integra mobiliario, piedra y ducha."
+        },
+        {
+          "sourceFilename": "BAÑO SN2.JPG",
+          "projectId": "sn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226609/disfamosa/gallery/banos/sn/bano-sn2.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble largo de baño en madera gris con cubierta de mármol, doble lavabo y tiradores decorativos",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 5,
+          "analysis": "Detalle amplio y luminoso que exhibe muy bien la carpintería y el acabado de piedra."
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "id": "vc",
+      "name": "VC",
+      "images": [
+        {
+          "sourceFilename": "BAÑO VC.jpeg",
+          "projectId": "vc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226609/disfamosa/gallery/banos/vc/bano-vc.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Baño compacto con mueble flotante blanco, lavabo circular, cubierta de mármol y ducha de vidrio",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista nítida y completa del espacio con buena lectura de la distribución compacta."
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "id": "vt",
+      "name": "VT",
+      "images": [
+        {
+          "sourceFilename": "BAÑO VT1.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226610/disfamosa/gallery/banos/vt/bano-vt1.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Tocador flotante blanco con frentes acanalados, cubierta integrada y revestimiento de mármol gris",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Vista arquitectónica amplia y dramática que realza el diseño asimétrico y los materiales."
+        },
+        {
+          "sourceFilename": "BAÑO VT2.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226610/disfamosa/gallery/banos/vt/bano-vt2.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Detalle frontal de mueble blanco acanalado con lavabo integrado y espejo biselado",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Encuadre centrado y nítido que muestra bien la textura, con reflejo de la ducha al fondo."
+        }
+      ],
+      "sortOrder": 16
+    }
+  ]
+}

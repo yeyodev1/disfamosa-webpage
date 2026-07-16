@@ -1,0 +1,1077 @@
+{
+  "categoryId": "closets",
+  "name": "Closets",
+  "projectCount": 19,
+  "imageCount": 72,
+  "projects": [
+    {
+      "id": "aa",
+      "name": "AA",
+      "images": [
+        {
+          "sourceFilename": "CLOSET AA.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226611/disfamosa/gallery/closets/aa/closet-aa.jpg",
+          "width": 2049,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AA - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET AA2.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226611/disfamosa/gallery/closets/aa/closet-aa2.jpg",
+          "width": 2111,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AA - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET AA3.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226612/disfamosa/gallery/closets/aa/closet-aa3.jpg",
+          "width": 4801,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AA - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET AA4.JPG",
+          "projectId": "aa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226612/disfamosa/gallery/closets/aa/closet-aa4.jpg",
+          "width": 3196,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AA - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "ag",
+      "name": "AG",
+      "images": [
+        {
+          "sourceFilename": "CLOSET AG.jpeg",
+          "projectId": "ag",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226613/disfamosa/gallery/closets/ag/closet-ag.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AG - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET AG2.jpeg",
+          "projectId": "ag",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226613/disfamosa/gallery/closets/ag/closet-ag2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet AG - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": "ar",
+      "name": "AR",
+      "images": [
+        {
+          "sourceFilename": "CLOSET AR.JPG",
+          "projectId": "ar",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226614/disfamosa/gallery/closets/ar/closet-ar.jpg",
+          "width": 1216,
+          "height": 471,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AR - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET AR2.JPG",
+          "projectId": "ar",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226613/disfamosa/gallery/closets/ar/closet-ar2.jpg",
+          "width": 1306,
+          "height": 495,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet AR - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "bb",
+      "name": "BB",
+      "images": [
+        {
+          "sourceFilename": "CLOSET BB.jpeg",
+          "projectId": "bb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226614/disfamosa/gallery/closets/bb/closet-bb.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet BB - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET BB2.jpeg",
+          "projectId": "bb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226614/disfamosa/gallery/closets/bb/closet-bb2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet BB - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET BB3.jpeg",
+          "projectId": "bb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226614/disfamosa/gallery/closets/bb/closet-bb3.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet BB - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "bg",
+      "name": "BG",
+      "images": [
+        {
+          "sourceFilename": "CLOSET BG.jpeg",
+          "projectId": "bg",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226615/disfamosa/gallery/closets/bg/closet-bg.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet BG - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET BG2.jpeg",
+          "projectId": "bg",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226615/disfamosa/gallery/closets/bg/closet-bg2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet BG - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "cv",
+      "name": "CV",
+      "images": [
+        {
+          "sourceFilename": "CLOSET CV.jpeg",
+          "projectId": "cv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226616/disfamosa/gallery/closets/cv/closet-cv.jpg",
+          "width": 828,
+          "height": 1084,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet CV - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": "df",
+      "name": "DF",
+      "images": [
+        {
+          "sourceFilename": "CLOSET DF.JPG",
+          "projectId": "df",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226617/disfamosa/gallery/closets/df/closet-df.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet DF - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET DF2.JPG",
+          "projectId": "df",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226617/disfamosa/gallery/closets/df/closet-df2.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet DF - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "id": "ip",
+      "name": "IP",
+      "images": [
+        {
+          "sourceFilename": "CLOSET IP.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226618/disfamosa/gallery/closets/ip/closet-ip.jpg",
+          "width": 1536,
+          "height": 2302,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet IP - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET IP2.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226618/disfamosa/gallery/closets/ip/closet-ip2.jpg",
+          "width": 2302,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IP - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET IP3.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226620/disfamosa/gallery/closets/ip/closet-ip3.jpg",
+          "width": 1536,
+          "height": 2302,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet IP - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET IP4.JPG",
+          "projectId": "ip",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226618/disfamosa/gallery/closets/ip/closet-ip4.jpg",
+          "width": 1536,
+          "height": 2302,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet IP - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "id": "iv",
+      "name": "IV",
+      "images": [
+        {
+          "sourceFilename": "CLOSET IV.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET IV2.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226621/disfamosa/gallery/closets/iv/closet-iv2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet IV - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET IV3.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226621/disfamosa/gallery/closets/iv/closet-iv3.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET IV4.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv4.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        },
+        {
+          "sourceFilename": "CLOSET IV5.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv5.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 5",
+          "featured": false,
+          "published": true,
+          "sortOrder": 5
+        },
+        {
+          "sourceFilename": "CLOSET IV6.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv6.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 6",
+          "featured": false,
+          "published": true,
+          "sortOrder": 6
+        },
+        {
+          "sourceFilename": "CLOSET IV7.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv7.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 7",
+          "featured": false,
+          "published": true,
+          "sortOrder": 7
+        },
+        {
+          "sourceFilename": "CLOSET IV8.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv8.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 8",
+          "featured": false,
+          "published": true,
+          "sortOrder": 8
+        },
+        {
+          "sourceFilename": "CLOSET IV9.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv9.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 9",
+          "featured": false,
+          "published": true,
+          "sortOrder": 9
+        },
+        {
+          "sourceFilename": "CLOSET IV10.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv10.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 10",
+          "featured": false,
+          "published": true,
+          "sortOrder": 10
+        },
+        {
+          "sourceFilename": "CLOSET IV11.jpeg",
+          "projectId": "iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv11.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet IV - imagen 11",
+          "featured": false,
+          "published": true,
+          "sortOrder": 11
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "id": "jpm",
+      "name": "JPM",
+      "images": [
+        {
+          "sourceFilename": "CLOSET JPM1.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226623/disfamosa/gallery/closets/jpm/closet-jpm1.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet JPM - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET JPM2.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm2.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet JPM - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET JPM3.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm3.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet JPM - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET JPM4.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm4.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet JPM - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        },
+        {
+          "sourceFilename": "CLOSET JPM5.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm5.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet JPM - imagen 5",
+          "featured": false,
+          "published": true,
+          "sortOrder": 5
+        },
+        {
+          "sourceFilename": "CLOSET JPM6.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm6.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet JPM - imagen 6",
+          "featured": false,
+          "published": true,
+          "sortOrder": 6
+        },
+        {
+          "sourceFilename": "CLOSET JPM7.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm7.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet JPM - imagen 7",
+          "featured": false,
+          "published": true,
+          "sortOrder": 7
+        },
+        {
+          "sourceFilename": "CLOSET JPM8.jpeg",
+          "projectId": "jpm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226624/disfamosa/gallery/closets/jpm/closet-jpm8.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet JPM - imagen 8",
+          "featured": false,
+          "published": true,
+          "sortOrder": 8
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "id": "ma",
+      "name": "MA",
+      "images": [
+        {
+          "sourceFilename": "CLOSET MA.JPG",
+          "projectId": "ma",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226625/disfamosa/gallery/closets/ma/closet-ma.jpg",
+          "width": 1242,
+          "height": 2208,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet MA - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "id": "mc",
+      "name": "MC",
+      "images": [
+        {
+          "sourceFilename": "CLOSET MC.jpeg",
+          "projectId": "mc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226625/disfamosa/gallery/closets/mc/closet-mc.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet MC - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET MC2.jpeg",
+          "projectId": "mc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226625/disfamosa/gallery/closets/mc/closet-mc2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet MC - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET MC3.jpeg",
+          "projectId": "mc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226625/disfamosa/gallery/closets/mc/closet-mc3.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet MC - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "id": "mj",
+      "name": "MJ",
+      "images": [
+        {
+          "sourceFilename": "CLOSET MJ.jpeg",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226626/disfamosa/gallery/closets/mj/closet-mj-922e8db8.jpg",
+          "width": 828,
+          "height": 621,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet MJ - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET MJ.JPG",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226626/disfamosa/gallery/closets/mj/closet-mj-2cffde30.jpg",
+          "width": 828,
+          "height": 619,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet MJ - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET MJ0.JPG",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226627/disfamosa/gallery/closets/mj/closet-mj0.jpg",
+          "width": 2049,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet MJ - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET MJ2.jpeg",
+          "projectId": "mj",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226626/disfamosa/gallery/closets/mj/closet-mj2.jpg",
+          "width": 764,
+          "height": 623,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet MJ - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "id": "nn",
+      "name": "NN",
+      "images": [
+        {
+          "sourceFilename": "CLOSET NN.jpeg",
+          "projectId": "nn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226628/disfamosa/gallery/closets/nn/closet-nn.jpg",
+          "width": 828,
+          "height": 601,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet NN - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "id": "nt",
+      "name": "NT",
+      "images": [
+        {
+          "sourceFilename": "CLOSET NT.jpeg",
+          "projectId": "nt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226628/disfamosa/gallery/closets/nt/closet-nt.jpg",
+          "width": 828,
+          "height": 1211,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet NT - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "id": "pm",
+      "name": "PM",
+      "images": [
+        {
+          "sourceFilename": "CLOSET PM.jpeg",
+          "projectId": "pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226629/disfamosa/gallery/closets/pm/closet-pm.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet PM - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "id": "vc",
+      "name": "VC",
+      "images": [
+        {
+          "sourceFilename": "CLOSET VC.jpeg",
+          "projectId": "vc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226630/disfamosa/gallery/closets/vc/closet-vc.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet VC - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET VC2.jpeg",
+          "projectId": "vc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226630/disfamosa/gallery/closets/vc/closet-vc2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VC - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET VC3.jpeg",
+          "projectId": "vc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226630/disfamosa/gallery/closets/vc/closet-vc3.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VC - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET VC4.jpeg",
+          "projectId": "vc",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226630/disfamosa/gallery/closets/vc/closet-vc4.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VC - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        }
+      ],
+      "sortOrder": 17
+    },
+    {
+      "id": "vt",
+      "name": "VT",
+      "images": [
+        {
+          "sourceFilename": "CLOSET VT.jpg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226632/disfamosa/gallery/closets/vt/closet-vt.jpg",
+          "width": 828,
+          "height": 1472,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet VT - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        },
+        {
+          "sourceFilename": "CLOSET VT2.jpg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226632/disfamosa/gallery/closets/vt/closet-vt2.jpg",
+          "width": 1440,
+          "height": 1440,
+          "format": "jpg",
+          "orientation": "square",
+          "alt": "Closet VT - imagen 2",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2
+        },
+        {
+          "sourceFilename": "CLOSET VT3.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt3.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 3",
+          "featured": false,
+          "published": true,
+          "sortOrder": 3
+        },
+        {
+          "sourceFilename": "CLOSET VT4.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226632/disfamosa/gallery/closets/vt/closet-vt4.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 4",
+          "featured": false,
+          "published": true,
+          "sortOrder": 4
+        },
+        {
+          "sourceFilename": "CLOSET VT5.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226632/disfamosa/gallery/closets/vt/closet-vt5.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet VT - imagen 5",
+          "featured": false,
+          "published": true,
+          "sortOrder": 5
+        },
+        {
+          "sourceFilename": "CLOSET VT6.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt6.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 6",
+          "featured": false,
+          "published": true,
+          "sortOrder": 6
+        },
+        {
+          "sourceFilename": "CLOSET VT7.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt7.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 7",
+          "featured": false,
+          "published": true,
+          "sortOrder": 7
+        },
+        {
+          "sourceFilename": "CLOSET VT8.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt8.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 8",
+          "featured": false,
+          "published": true,
+          "sortOrder": 8
+        },
+        {
+          "sourceFilename": "CLOSET VT9.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt9.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 9",
+          "featured": false,
+          "published": true,
+          "sortOrder": 9
+        },
+        {
+          "sourceFilename": "CLOSET VT10.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt10.jpg",
+          "width": 2049,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 10",
+          "featured": false,
+          "published": true,
+          "sortOrder": 10
+        },
+        {
+          "sourceFilename": "CLOSET VT11.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt11.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet VT - imagen 11",
+          "featured": false,
+          "published": true,
+          "sortOrder": 11
+        },
+        {
+          "sourceFilename": "CLOSET VT12.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt12.jpg",
+          "width": 1537,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet VT - imagen 12",
+          "featured": false,
+          "published": true,
+          "sortOrder": 12
+        },
+        {
+          "sourceFilename": "CLOSET VT13.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt13.jpg",
+          "width": 2049,
+          "height": 1537,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 13",
+          "featured": false,
+          "published": true,
+          "sortOrder": 13
+        },
+        {
+          "sourceFilename": "CLOSET VT14.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt14.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 14",
+          "featured": false,
+          "published": true,
+          "sortOrder": 14
+        },
+        {
+          "sourceFilename": "CLOSET VT15.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt15.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 15",
+          "featured": false,
+          "published": true,
+          "sortOrder": 15
+        },
+        {
+          "sourceFilename": "CLOSET VT16.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt16.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 16",
+          "featured": false,
+          "published": true,
+          "sortOrder": 16
+        },
+        {
+          "sourceFilename": "CLOSET VT17.jpeg",
+          "projectId": "vt",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226633/disfamosa/gallery/closets/vt/closet-vt17.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Closet VT - imagen 17",
+          "featured": false,
+          "published": true,
+          "sortOrder": 17
+        }
+      ],
+      "sortOrder": 18
+    },
+    {
+      "id": "wa",
+      "name": "WA",
+      "images": [
+        {
+          "sourceFilename": "CLOSET WA.JPG",
+          "projectId": "wa",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226634/disfamosa/gallery/closets/wa/closet-wa.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Closet WA - imagen 1",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1
+        }
+      ],
+      "sortOrder": 19
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "categoryId": "especiales",
+  "name": "Especiales",
+  "projectCount": 17,
+  "imageCount": 19,
+  "projects": [
+    {
+      "id": "alacena-bb",
+      "name": "ALACENA BB",
+      "images": [
+        {
+          "sourceFilename": "ALACENA BB.jpeg",
+          "projectId": "alacena-bb",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226661/disfamosa/gallery/especiales/alacena-bb/alacena-bb.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Alacena blanca abierta con repisas, divisores verticales y dos cajones",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Vista completa y nítida; el ángulo inclinado resta equilibrio a la composición."
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "alacena-iv",
+      "name": "ALACENA IV",
+      "images": [
+        {
+          "sourceFilename": "ALACENA IV.jpeg",
+          "projectId": "alacena-iv",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226662/disfamosa/gallery/especiales/alacena-iv/alacena-iv.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Alacena gris en U con repisas abiertas, cajones y cubierta clara",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Toma frontal, luminosa y bien compuesta que muestra con claridad todo el mobiliario."
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": "bar-pm",
+      "name": "BAR PM",
+      "images": [
+        {
+          "sourceFilename": "BAR PM.jpeg",
+          "projectId": "bar-pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226662/disfamosa/gallery/especiales/bar-pm/bar-pm.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Bar empotrado gris con cubierta de madera y puerta corrediza tipo granero",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Buena vista del conjunto y sus materiales, con ligera suavidad en la zona inferior."
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": "cocina-exterior-sw",
+      "name": "COCINA EXTERIOR SW",
+      "images": [
+        {
+          "sourceFilename": "COCINA EXTERIOR SW.jpeg",
+          "projectId": "cocina-exterior-sw",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226663/disfamosa/gallery/especiales/cocina-exterior-sw/cocina-exterior-sw.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Cocina exterior en U con frentes de madera, vitrinas y cubierta marmoleada",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Imagen amplia, nítida y atractiva que destaca acabados, distribución e iluminación natural."
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "id": "escritorio-jn",
+      "name": "ESCRITORIO JN",
+      "images": [
+        {
+          "sourceFilename": "ESCRITORIO JN.jpeg",
+          "projectId": "escritorio-jn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226664/disfamosa/gallery/especiales/escritorio-jn/escritorio-jn.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Dos escritorios ejecutivos en L con superficies de madera y estructuras negras",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Composición limpia y luminosa con excelente lectura de ambos puestos de trabajo."
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "estacion-trabajo-jn",
+      "name": "ESTACION TRABAJO JN",
+      "images": [
+        {
+          "sourceFilename": "ESTACION TRABAJO JN.jpeg",
+          "projectId": "estacion-trabajo-jn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226664/disfamosa/gallery/especiales/estacion-trabajo-jn/estacion-trabajo-jn.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Estación de trabajo compartida en madera con divisor terracota y sillas negras",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "La estación se aprecia completa y nítida, aunque el gran angular deforma ligeramente el espacio."
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "id": "home-office-em",
+      "name": "HOME OFFICE EM",
+      "images": [
+        {
+          "sourceFilename": "HOME OFFICE EM.jpeg",
+          "projectId": "home-office-em",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226665/disfamosa/gallery/especiales/home-office-em/home-office-em.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Home office en L con cubierta de madera, gabinetes blancos y herrajes dorados",
+          "featured": true,
+          "published": false,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "El mobiliario se distingue bien, pero materiales embalados, planos y polvo evidencian instalación en curso."
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "id": "lockers",
+      "name": "LOCKERS",
+      "images": [
+        {
+          "sourceFilename": "LOCKERS.JPG",
+          "projectId": "lockers",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226666/disfamosa/gallery/especiales/lockers/lockers.jpg",
+          "width": 1536,
+          "height": 2049,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Módulo vertical de lockers blancos con cerraduras individuales",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "Registro nítido y funcional, con encuadre estrecho y etiquetas provisionales visibles."
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "id": "mueble-dormitorio-mm",
+      "name": "MUEBLE DORMITORIO MM",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE DORMITORIO MM.jpeg",
+          "projectId": "mueble-dormitorio-mm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226666/disfamosa/gallery/especiales/mueble-dormitorio-mm/mueble-dormitorio-mm.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Dormitorio con clóset y centro de entretenimiento en madera clara y café oscuro",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista amplia y ordenada que integra ambos muebles, con leve distorsión de gran angular."
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "id": "mueble-sala",
+      "name": "MUEBLE SALA",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE SALA.jpeg",
+          "projectId": "mueble-sala",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226668/disfamosa/gallery/especiales/mueble-sala/mueble-sala.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble de sala modular en gris oscuro y madera clara junto al comedor",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Buena perspectiva del mueble y su relación con la sala, con la mesa ocupando parte del encuadre."
+        },
+        {
+          "sourceFilename": "MUEBLE SALA 2.jpeg",
+          "projectId": "mueble-sala",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226667/disfamosa/gallery/especiales/mueble-sala/mueble-sala-2.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble de sala modular con aparador, vitrina y repisas de madera clara",
+          "featured": false,
+          "published": true,
+          "sortOrder": 2,
+          "qualityScore": 4,
+          "analysis": "Toma frontal clara del conjunto; la lámpara y la mesa compiten visualmente con el mobiliario."
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "id": "mueble-tv-em",
+      "name": "MUEBLE TV EM",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE TV EM.jpeg",
+          "projectId": "mueble-tv-em",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226669/disfamosa/gallery/especiales/mueble-tv-em/mueble-tv-em.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Centro de entretenimiento blanco y madera con repisas iluminadas y escritorio lateral",
+          "featured": true,
+          "published": false,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "El diseño se aprecia completo, pero el cable expuesto y las protecciones revelan obra sin terminar."
+        },
+        {
+          "sourceFilename": "MUEBLE TV EM2.jpeg",
+          "projectId": "mueble-tv-em",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226668/disfamosa/gallery/especiales/mueble-tv-em/mueble-tv-em2.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Panel de televisión en madera con gabinete bajo blanco y repisas laterales",
+          "featured": false,
+          "published": false,
+          "sortOrder": 2,
+          "qualityScore": 3,
+          "analysis": "Buen detalle de la veta, aunque faltan elementos finales y sobresalen fijaciones de instalación."
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "id": "mueble-tv-gm",
+      "name": "MUEBLE TV GM",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE TV GM.jpeg",
+          "projectId": "mueble-tv-gm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226669/disfamosa/gallery/especiales/mueble-tv-gm/mueble-tv-gm.jpg",
+          "width": 1536,
+          "height": 2730,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble de televisión blanco y madera con repisas verticales iluminadas",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 3,
+          "analysis": "El mueble terminado se entiende bien, pero la luz cálida y el reflejo del fotógrafo reducen calidad."
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "id": "mueble-tv-jf",
+      "name": "MUEBLE TV JF",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE TV JF.jpg",
+          "projectId": "mueble-tv-jf",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226670/disfamosa/gallery/especiales/mueble-tv-jf/mueble-tv-jf.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Centro de entretenimiento blanco y negro con paneles geométricos azules iluminados",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Vista frontal equilibrada y nítida; algunos cables visibles restan limpieza al resultado."
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "id": "mueble-tv-pm",
+      "name": "MUEBLE TV PM",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE TV PM.jpeg",
+          "projectId": "mueble-tv-pm",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226671/disfamosa/gallery/especiales/mueble-tv-pm/mueble-tv-pm.jpg",
+          "width": 2049,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Mueble de televisión gris y madera clara con gabinetes y nichos abiertos",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Encuadre frontal informativo con buen detalle, aunque conserva cables expuestos bajo el televisor."
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "id": "mueble-tv-sw",
+      "name": "MUEBLE TV SW",
+      "images": [
+        {
+          "sourceFilename": "MUEBLE TV SW.jpeg",
+          "projectId": "mueble-tv-sw",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226672/disfamosa/gallery/especiales/mueble-tv-sw/mueble-tv-sw.jpg",
+          "width": 2048,
+          "height": 1536,
+          "format": "jpg",
+          "orientation": "landscape",
+          "alt": "Centro de entretenimiento en madera, blanco y acabado marmoleado con luz indirecta",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Imagen frontal, nítida y bien iluminada que resalta materiales y composición con claridad."
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "id": "utilitario-jn",
+      "name": "UTILITARIO JN",
+      "images": [
+        {
+          "sourceFilename": "UTILITARIO JN.jpeg",
+          "projectId": "utilitario-jn",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226672/disfamosa/gallery/especiales/utilitario-jn/utilitario-jn.jpg",
+          "width": 1536,
+          "height": 2048,
+          "format": "jpg",
+          "orientation": "portrait",
+          "alt": "Mueble utilitario de madera clara con casilleros abiertos y cajones terracota",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 4,
+          "analysis": "Toma clara y uniforme del almacenamiento, con recorte ajustado en los bordes laterales."
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "id": "zapatera",
+      "name": "ZAPATERA",
+      "images": [
+        {
+          "sourceFilename": "ZAPATERA.jpg",
+          "projectId": "zapatera",
+          "secureUrl": "https://res.cloudinary.com/xq12mihk/image/upload/v1784226673/disfamosa/gallery/especiales/zapatera/zapatera.jpg",
+          "width": 1080,
+          "height": 1080,
+          "format": "jpg",
+          "orientation": "square",
+          "alt": "Zapatera blanca tipo banco con dos niveles de barras y calzado organizado",
+          "featured": true,
+          "published": true,
+          "sortOrder": 1,
+          "qualityScore": 5,
+          "analysis": "Fotografía limpia, nítida y bien iluminada que comunica de inmediato forma y uso."
+        }
+      ],
+      "sortOrder": 17
+    }
+  ]
+}

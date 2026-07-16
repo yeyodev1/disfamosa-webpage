@@ -1,0 +1,41 @@
+{
+  "projectCount": 87,
+  "imageCount": 182,
+  "categories": [
+    {
+      "id": "banos",
+      "name": "Baños",
+      "projectCount": 16,
+      "imageCount": 25,
+      "dataPath": "./banos/projects.json"
+    },
+    {
+      "id": "closets",
+      "name": "Closets",
+      "projectCount": 19,
+      "imageCount": 72,
+      "dataPath": "./closets/projects.json"
+    },
+    {
+      "id": "cocinas",
+      "name": "Cocinas",
+      "projectCount": 29,
+      "imageCount": 58,
+      "dataPath": "./cocinas/projects.json"
+    },
+    {
+      "id": "especiales",
+      "name": "Especiales",
+      "projectCount": 17,
+      "imageCount": 19,
+      "dataPath": "./especiales/projects.json"
+    },
+    {
+      "id": "lavanderias",
+      "name": "Lavanderías",
+      "projectCount": 6,
+      "imageCount": 8,
+      "dataPath": "./lavanderias/projects.json"
+    }
+  ]
+}
