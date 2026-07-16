@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://disfamosa.example/sitemap.xml
+Host: https://disfamosa.example

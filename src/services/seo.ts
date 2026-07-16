@@ -46,7 +46,7 @@ const categorySeo: Record<string, SeoData> = {
 }
 
 function routeSeo(route: RouteLocationNormalizedLoaded): SeoData {
-  if (route.name === 'gallery') return categorySeo[String(route.params.category)] ?? categorySeo.cocinas
+  if (route.name === 'gallery') return categorySeo[String(route.params.category)] ?? categorySeo.cocinas!
 
   const pages: Record<string, SeoData> = {
     home: {
@@ -69,7 +69,7 @@ function routeSeo(route: RouteLocationNormalizedLoaded): SeoData {
     },
   }
 
-  return pages[String(route.name)] ?? pages.home
+  return pages[String(route.name)] ?? pages.home!
 }
 
 function setMeta(selector: string, attribute: 'name' | 'property', key: string, content: string) {
