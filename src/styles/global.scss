@@ -79,6 +79,35 @@ p {
   color: $white;
 }
 
+:is(
+  .site-footer,
+  .legacy,
+  .home-cta,
+  .about-manifesto,
+  .about-hero__stamp,
+  .gallery-transition,
+  .gallery-view__cta,
+  .lightbox,
+  .app-preloader,
+  .menu-overlay__caption,
+  .menu-overlay__link--active
+) ::selection {
+  background: $white;
+  color: $black;
+}
+
+.project-card__image > span::selection {
+  background: $white;
+  color: $black;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .menu-overlay__link:hover ::selection {
+    background: $white;
+    color: $black;
+  }
+}
+
 .page-shell {
   display: flex;
   width: min(100% - 40px, 1280px);

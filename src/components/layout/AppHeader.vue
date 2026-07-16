@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { menuPreviews } from '@/config/menuPreviews'
 import { cloudinaryImageUrl } from '@/services/cloudinaryImage'
 import type { GalleryCategoryId } from '@/types/gallery'
@@ -15,6 +15,7 @@ interface MenuItem {
 }
 
 const route = useRoute()
+const router = useRouter()
 const menuOpen = ref(false)
 const toggleButton = ref<HTMLButtonElement | null>(null)
 const activeIndex = ref(0)
@@ -34,6 +35,7 @@ const menuItems: MenuItem[] = [
 const activeItem = computed(() => menuItems[activeIndex.value] ?? menuItems[0])
 const activePreview = computed<GalleryCategoryId>(() => activeItem.value?.preview ?? 'cocinas')
 const activeImage = computed(() => menuPreviews[activePreview.value])
+const supportsHover = window.matchMedia('(hover: hover) and (pointer: fine)')
 
 function preloadMenuImages() {
   const loaded = new Set<string>()
@@ -62,6 +64,15 @@ function toggleMenu() {
   else openMenu()
 }
 
+function previewItem(index: number) {
+  if (supportsHover.matches) activeIndex.value = index
+}
+
+function navigateFromMenu(path: string) {
+  closeMenu()
+  if (path !== route.path) void router.push(path)
+}
+
 function onKeydown(event: KeyboardEvent) {
   if (!menuOpen.value) return
   if (event.key === 'Escape') {
@@ -87,8 +98,10 @@ watch(menuOpen, async (open) => {
   document.body.classList.toggle('menu-open', open)
   if (open) {
     preloadMenuImages()
-    await nextTick()
-    document.querySelector<HTMLElement>('.menu-overlay__link')?.focus()
+    if (supportsHover.matches) {
+      await nextTick()
+      document.querySelector<HTMLElement>('.menu-overlay__link')?.focus()
+    }
   }
 })
 
@@ -124,20 +137,21 @@ onBeforeUnmount(() => {
           <nav class="menu-overlay__nav" aria-label="Navegación principal">
             <p class="menu-overlay__eyebrow">Explorar Disfamosa</p>
             <div class="menu-overlay__links">
-              <RouterLink
+              <a
                 v-for="(item, index) in menuItems"
                 :key="item.to"
                 class="menu-overlay__link"
-                :to="item.to"
+                :class="{ 'menu-overlay__link--active': route.path === item.to }"
+                :href="item.to"
                 :style="{ '--item-index': index }"
-                @mouseenter="activeIndex = index"
-                @focus="activeIndex = index"
-                @click="closeMenu()"
+                @pointerenter="previewItem(index)"
+                @focus="previewItem(index)"
+                @click.prevent="navigateFromMenu(item.to)"
               >
                 <span class="menu-overlay__number">{{ String(index + 1).padStart(2, '0') }}</span>
                 <span class="menu-overlay__label">{{ item.label }}</span>
                 <i class="fa-solid fa-arrow-right-long" aria-hidden="true" />
-              </RouterLink>
+              </a>
             </div>
             <div class="menu-overlay__footer">
               <span>Guayaquil, Ecuador</span>
@@ -287,9 +301,8 @@ onBeforeUnmount(() => {
     border-right: 0;
   }
 
-  &:hover,
   &:focus-visible,
-  &.router-link-exact-active {
+  &.menu-overlay__link--active {
     background: $black;
     color: $white;
   }
@@ -302,9 +315,20 @@ onBeforeUnmount(() => {
     transition: opacity 180ms ease, transform 180ms ease;
   }
 
-  &:hover > i,
   &:focus-visible > i,
-  &.router-link-exact-active > i {
+  &.menu-overlay__link--active > i {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .menu-overlay__link:hover {
+    background: $black;
+    color: $white;
+  }
+
+  .menu-overlay__link:hover > i {
     opacity: 1;
     transform: translateX(0);
   }
