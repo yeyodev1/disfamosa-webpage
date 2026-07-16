@@ -40,8 +40,8 @@ import BrandMark from './BrandMark.vue'
   flex-direction: column;
   gap: 22px;
 
-  :deep(.brand-mark__square) {
-    border-color: $white;
+  :deep(.brand-mark__logo) {
+    filter: invert(1);
   }
 
   p {
