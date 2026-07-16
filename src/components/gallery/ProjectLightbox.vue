@@ -56,7 +56,7 @@ onBeforeUnmount(() => {
 <style lang="scss" scoped>
 .lightbox {
   position: fixed;
-  z-index: 50;
+  z-index: 90;
   inset: 0;
   display: flex;
   padding: 20px;

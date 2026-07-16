@@ -42,7 +42,7 @@ function preloadMenuImages() {
     if (loaded.has(source)) continue
     loaded.add(source)
     const image = new Image()
-    image.src = cloudinaryImageUrl(source, { width: 1200, height: 1000, crop: 'fill', quality: 'auto:eco' })
+    image.src = cloudinaryImageUrl(source, { width: 1200, height: 1000, crop: 'fill', quality: 'auto:good' })
   }
 }
 
@@ -156,11 +156,11 @@ onBeforeUnmount(() => {
                   class="menu-overlay__photo"
                   :src="activeImage.url"
                   :alt="activeImage.alt"
-                  :width="1400"
-                  :height="1200"
-                  sizes="(max-width: 760px) 100vw, 54vw"
+                  :width="1200"
+                  :height="1000"
                   loading="eager"
                   priority="high"
+                  :responsive="false"
                 />
               </div>
             </Transition>

@@ -11,6 +11,7 @@ const props = withDefaults(defineProps<{
   loading?: 'eager' | 'lazy'
   fit?: 'cover' | 'contain'
   priority?: 'high' | 'low' | 'auto'
+  responsive?: boolean
 }>(), {
   width: 960,
   height: undefined,
@@ -18,6 +19,7 @@ const props = withDefaults(defineProps<{
   loading: 'lazy',
   fit: 'cover',
   priority: 'auto',
+  responsive: true,
 })
 
 const loaded = ref(false)
@@ -55,7 +57,7 @@ watch(() => props.src, () => {
     <img
       class="progressive-image__image"
       :src="optimizedSrc"
-      :srcset="srcset"
+      :srcset="responsive ? srcset : undefined"
       :sizes="sizes"
       :alt="alt"
       :loading="loading"

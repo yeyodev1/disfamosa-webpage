@@ -10,7 +10,7 @@ const lightboxIndex = ref<number | null>(null)
 </script>
 
 <template>
-  <article class="project-card">
+  <article class="project-card" :style="{ '--project-index': Math.min(index, 10) }">
     <button v-if="publishedImages[0]" class="project-card__image" type="button" @click="lightboxIndex = 0">
       <ProgressiveImage
         :src="publishedImages[0].secureUrl ?? ''"
@@ -28,13 +28,15 @@ const lightboxIndex = ref<number | null>(null)
       <span>{{ String(index + 1).padStart(2, '0') }}</span>
       <h2>{{ categoryName }} {{ project.name }}</h2>
     </div>
-    <ProjectLightbox
-      v-if="lightboxIndex !== null"
-      :images="publishedImages"
-      :active-index="lightboxIndex"
-      @close="lightboxIndex = null"
-      @change="lightboxIndex = $event"
-    />
+    <Teleport to="body">
+      <ProjectLightbox
+        v-if="lightboxIndex !== null"
+        :images="publishedImages"
+        :active-index="lightboxIndex"
+        @close="lightboxIndex = null"
+        @change="lightboxIndex = $event"
+      />
+    </Teleport>
   </article>
 </template>
 
@@ -44,6 +46,17 @@ const lightboxIndex = ref<number | null>(null)
   width: calc(50% - 14px);
   flex-direction: column;
   gap: 14px;
+  opacity: 0;
+  transform: translateY(22px);
+  animation: project-card-in 520ms cubic-bezier(0.2, 0.7, 0.2, 1) forwards;
+  animation-delay: calc(260ms + (var(--project-index) * 45ms));
+}
+
+@keyframes project-card-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .project-card:nth-child(4n + 2),
