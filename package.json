@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "gallery:catalog": "node --env-file=.env scripts/upload-gallery.mjs --catalog-only",
+    "gallery:upload": "node --env-file=.env scripts/upload-gallery.mjs"
   },
   "dependencies": {
     "axios": "^1.13.2",
@@ -22,12 +24,5 @@
     "typescript": "~5.9.3",
     "vite": "^7.0.0",
     "vue-tsc": "^3.1.0"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild",
-      "@parcel/watcher",
-      "unrs-resolver"
-    ]
   }
 }

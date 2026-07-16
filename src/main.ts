@@ -3,6 +3,10 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 import '@/styles/global.scss'
+import { captureAttribution, useLeadSession } from '@/composables/useLeadSession'
+
+useLeadSession()
+captureAttribution()
 
 const app = createApp(App)
 

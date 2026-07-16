@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&family=Manrope:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --font-montserrat: 'Montserrat', sans-serif;
-  --font-inter: 'Inter', sans-serif;
+  --font-display: 'Bodoni Moda', serif;
+  --font-sans: 'Manrope', sans-serif;
 }
 
-$font-principal: 'Montserrat', sans-serif;
-$font-secondary: 'Inter', sans-serif;
+$font-principal: 'Manrope', sans-serif;
+$font-secondary: 'Bodoni Moda', serif;
