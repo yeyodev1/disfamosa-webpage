@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory, type RouteRecordRaw } from 'vue-router'
 import ContactView from '@/views/ContactView.vue'
+import { updateSeo } from '@/services/seo'
 
 const routes: RouteRecordRaw[] = [
   {
@@ -47,7 +48,7 @@ const router = createRouter({
 })
 
 router.afterEach((to) => {
-  document.title = `${String(to.meta.title ?? 'Disfamosa')} | Disfamosa`
+  updateSeo(to)
 })
 
 export default router

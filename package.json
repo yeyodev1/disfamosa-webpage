@@ -4,8 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc -b && vite build",
+    "build": "pnpm seo:generate && vue-tsc -b && vite build",
     "preview": "vite preview",
+    "seo:generate": "node scripts/generate-seo.mjs",
     "gallery:catalog": "node --env-file=.env scripts/upload-gallery.mjs --catalog-only",
     "gallery:upload": "node --env-file=.env scripts/upload-gallery.mjs"
   },
