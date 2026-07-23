@@ -8,18 +8,18 @@ interface MenuPreview {
 
 export const menuPreviews: Record<GalleryCategoryId, MenuPreview> = {
   cocinas: {
-    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226634/disfamosa/gallery/cocinas/at/cocina-at.jpg',
-    alt: 'Cocina blanca lineal con isla de granito y electrodomésticos integrados',
+    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226646/disfamosa/gallery/cocinas/ip/cocina-ip.jpg',
+    alt: 'Cocina blanca de alto brillo con dos frentes paralelos y cubiertas de piedra clara',
     imageCount: 58,
   },
   banos: {
-    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226599/disfamosa/gallery/banos/cs/bano-cs.jpg',
-    alt: 'Mueble flotante doble en madera clara con lavabos sobre encimera',
+    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226603/disfamosa/gallery/banos/iv/bano-iv2.jpg',
+    alt: 'Mueble flotante blanco de doble lavabo con espejos arqueados retroiluminados y armarios laterales',
     imageCount: 25,
   },
   closets: {
-    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226611/disfamosa/gallery/closets/aa/closet-aa.jpg',
-    alt: 'Closet amplio a medida con almacenamiento abierto e iluminación integrada',
+    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226622/disfamosa/gallery/closets/iv/closet-iv11.jpg',
+    alt: 'Closet IV - imagen 11',
     imageCount: 72,
   },
   especiales: {
@@ -28,8 +28,8 @@ export const menuPreviews: Record<GalleryCategoryId, MenuPreview> = {
     imageCount: 19,
   },
   lavanderias: {
-    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226675/disfamosa/gallery/lavanderias/aa/lavanderia-aa2.jpg',
-    alt: 'Lavandería completa con gabinetes de madera y mesones de granito',
+    url: 'https://res.cloudinary.com/xq12mihk/image/upload/v1784226676/disfamosa/gallery/lavanderias/ag/lavanderia-ag2.jpg',
+    alt: 'Lavandería lineal con gabinetes blancos, cubierta de madera y amplio lavadero',
     imageCount: 8,
   },
 }

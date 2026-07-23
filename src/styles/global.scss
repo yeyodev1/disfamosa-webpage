@@ -1,6 +1,14 @@
 @use './colorVariables.module.scss' as *;
 @use './fonts.module.scss' as *;
 
+:root {
+  --header-height: 96px;
+
+  @media (min-width: 768px) {
+    --header-height: 120px;
+  }
+}
+
 *,
 *::before,
 *::after {
@@ -10,6 +18,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 
 body {
   min-width: 320px;

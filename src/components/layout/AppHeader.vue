@@ -202,9 +202,19 @@ onBeforeUnmount(() => {
 .site-header__inner {
   position: relative;
   z-index: 42;
-  min-height: 76px;
+  min-height: var(--header-height);
   align-items: center;
   justify-content: space-between;
+
+  :deep(.brand-mark__logo) {
+    height: 60px;
+    width: auto;
+    transition: height 240ms ease;
+
+    @media (min-width: 768px) {
+      height: 80px;
+    }
+  }
 }
 
 .site-header__toggle {
@@ -249,7 +259,7 @@ onBeforeUnmount(() => {
   position: fixed;
   z-index: 40;
   inset: 0;
-  padding-top: 76px;
+  padding-top: var(--header-height);
   overflow: hidden;
   background: $white;
 }

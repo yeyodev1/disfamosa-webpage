@@ -147,7 +147,7 @@ const specialties = [
 }
 
 .about-hero {
-  min-height: calc(100vh - 76px);
+  min-height: calc(100vh - var(--header-height, 76px));
   padding: 42px 0 86px;
   align-items: stretch;
   gap: clamp(32px, 6vw, 86px);

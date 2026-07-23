@@ -96,7 +96,7 @@ async function handleQualification(qualification: QualificationData) {
 <style lang="scss" scoped>
 .contact-view {
   display: flex;
-  min-height: calc(100vh - 76px);
+  min-height: calc(100vh - var(--header-height, 76px));
   padding: 90px 0 120px;
   background: $gray-50;
 }
